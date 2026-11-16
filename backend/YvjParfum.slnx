@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/YvjParfum.Api/YvjParfum.Api.csproj" />
+    <Project Path="src/YvjParfum.Application/YvjParfum.Application.csproj" />
+    <Project Path="src/YvjParfum.Domain/YvjParfum.Domain.csproj" />
+    <Project Path="src/YvjParfum.Infrastructure/YvjParfum.Infrastructure.csproj" />
+  </Folder>
+</Solution>
